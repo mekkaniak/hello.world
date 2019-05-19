@@ -1,5 +1,13 @@
 # hello.world
-Hello World ya'all
+
+## Hello World ya'all
+
 Adding a line!
 Adding another line in VS code.
 Trying again, another line from VS Code.
+
+## Force new line
+
+New paragraph.  
+Can you force new line, instead of a new paragraph?  
+Yes you can, just end the previous line with two spaces.
