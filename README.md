@@ -14,4 +14,4 @@ Yes you can, just end the previous line with two spaces.
 
 ## Testing push
 
-Push from VS Code?
+Push from VS Code, again from Ubuntu.
